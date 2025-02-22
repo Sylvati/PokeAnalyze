@@ -1,0 +1,57 @@
+Gengar @ Gengarite
+Ability: Levitate
+EVs: 76 HP / 240 Def / 4 SpD / 188 Spe
+IVs: 0 Atk / 30 Def / 30 SpA
+Timid Nature
+- Sludge Bomb
+- Will-O-Wisp
+- Hidden Power [Water]
+- Protect
+
+Kyogre @ Blue Orb
+Ability: Primordial Sea
+EVs: 252 HP / 252 Def / 4 SpA
+IVs: 0 Atk / 0 Spe
+Modest Nature
+- Origin Pulse
+- Ice Beam
+- Thunder
+- Protect
+
+Bronzong @ Lum Berry
+Ability: Levitate
+EVs: 252 HP / 188 Def / 68 SpD
+IVs: 4 Spe
+Relaxed Nature
+- Gyro Ball
+- Trick Room
+- Skill Swap
+- Safeguard
+
+Groudon @ Red Orb
+Ability: Drought
+EVs: 188 HP / 44 Atk / 156 SpA / 68 SpD / 52 Spe
+Quiet Nature
+- Eruption
+- Precipice Blades
+- Fire Punch
+- Protect
+
+Manectric @ Manectite
+Ability: Lightning Rod
+EVs: 36 HP / 80 Def / 168 SpA / 4 SpD / 220 Spe
+IVs: 0 Atk / 30 Def / 30 SpA
+Timid Nature
+- Volt Switch
+- Thunder
+- Hidden Power [Water]
+- Protect
+
+Talonflame @ Chesto Berry
+Ability: Gale Wings
+EVs: 252 HP / 108 Atk / 76 Def / 20 SpD / 52 Spe
+Jolly Nature
+- Brave Bird
+- Taunt
+- Tailwind
+- Will-O-Wisp

@@ -1,0 +1,53 @@
+Rayquaza @ Focus Sash
+Ability: Air Lock
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Dragon Ascent
+- Protect
+- Swords Dance
+- Extreme Speed
+
+Kyogre @ Blue Orb
+Ability: Drizzle
+EVs: 204 HP / 204 Def / 44 SpA / 4 SpD / 52 Spe
+Modest Nature
+- Origin Pulse
+- Ice Beam
+- Water Spout
+- Protect
+
+Gengar @ Gengarite
+Ability: Levitate
+EVs: 92 HP / 20 Def / 172 SpA / 4 SpD / 220 Spe
+Timid Nature
+- Protect
+- Taunt
+- Sludge Bomb
+- Will-O-Wisp
+
+Hitmontop @ Eject Button
+Ability: Intimidate
+EVs: 252 HP / 132 Atk / 76 Def / 44 SpD / 4 Spe
+Adamant Nature
+- Wide Guard
+- Fake Out
+- Close Combat
+- Feint
+
+Raichu @ Assault Vest
+Ability: Lightning Rod
+EVs: 36 HP / 204 Def / 20 SpA / 68 SpD / 180 Spe
+Timid Nature
+- Fake Out
+- Volt Switch
+- Endeavor
+- Nuzzle
+
+Bronzong @ Lum Berry
+Ability: Levitate
+EVs: 252 HP / 68 Def / 188 SpD
+Sassy Nature
+- Safeguard
+- Gyro Ball
+- Skill Swap
+- Trick Room
