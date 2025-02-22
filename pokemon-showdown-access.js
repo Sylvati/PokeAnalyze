@@ -74,6 +74,5 @@ stream.write(">p2 team 1234");
 // p2: left     ,     right
 // 
 // This makes a lot of commands.. contextual? I guess?
-// Like we know 
 stream.write(`>p1 switch Raichu, move Water Spout`);
 stream.write('>p2 move Sludge Bomb 2 mega, move Thunder 1');
