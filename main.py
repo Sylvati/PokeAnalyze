@@ -149,6 +149,13 @@ else:
 # This may be an interesting website to change evaluation.
 # Perhaps evaluate who has more 1 OHKO, 2 OHKO, or 3 OHKOs?
 
+# I really didn't want to like, actually load up the game state
+# because that would be a whole lot of work
+# but like. I think im gonna have to
+# although it really shouldnt be that hard
+# the people over at pokemon showdown have a really good tool and
+# its very easy to use
+
 # ================================
 #       SECTION: Move Generation
 # ================================
