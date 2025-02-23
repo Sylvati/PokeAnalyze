@@ -99,6 +99,8 @@ else:
         successes = 0
         threads = []
         result_queue = queue.Queue()
+        # This approach to multi-threading not only sucks, but has and WILL crash my pc.
+        # I didn't even think that was possible I thought it would just like, break first.
         for possible_choice in possible_choices:
             # Create the lead choice
             command_to_add = ">p1 team " + pcli.num_tuple_to_string(possible_choice)
