@@ -1,31 +1,27 @@
+import pokemon_showdown_cli_helper as pcli
+
 # =====================================
 #           Design Outline
 # =====================================
+
+debug = True
 
 # ================================
 #       SECTION: Team Loading
 # ================================
 
 # Load team 1
-# Get filename or path from user
-# This should read the text file using python,
-# then it should pack the team using the NodeJS
+team_one_packed_team = pcli.get_path_load_and_pack_team("debug11")
 
 # Load team 2
-# Get filename or path from user
-# This should read the text file using python,
-# then it should pack the team using the NodeJS
-# This should probably use a function so I don't
-# have to type a bunch of code twice.
+team_two_packed_team = pcli.get_path_load_and_pack_team("debug12")
 
 # ================================
 #       SECTION: Rules
 # ================================
 
 # Get format from user
-# Find out if its singles, doubles, triples, etc
-# The program is gonna be optimized for doubles first
-# Because VGC rules are doubles.
+format = pcli.get_format("debug1")
 
 # ================================
 #       SECTION: Initial Lead Generation
