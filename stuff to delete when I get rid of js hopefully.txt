@@ -1,5 +1,0 @@
-delete these
-package.json
-package-lock.json
-that long name js file
-node_modules
