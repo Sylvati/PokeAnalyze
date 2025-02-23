@@ -2,7 +2,7 @@
 
 PokeAnalyze uses Pokémon Showdown’s local Node.js implementation to analyze battle states using a tree-based approach. By evaluating stored states, the tool aims to determine the best move based on the highest-rated game scenarios. 
 
-This project is in its early stages, and contributions are welcome! If you’re passionate about competitive Pokémon battling, AI-driven decision-making, or optimization, your help would be greatly appreciated.
+This project is in its early stages and contributions are welcome. Any help would be greatly appreciated.
 
 ## Features & Goals
 
